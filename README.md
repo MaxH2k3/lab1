@@ -1,5 +1,7 @@
 # lab1
 
+### Link game: https://drive.google.com/drive/folders/1eI0BBV2DTfWu8ZQbMfD-g6Cg8VBq49OZ?usp=sharing
+
 ### Thể loại game: phiêu lưu
 
 ### Giới thiệu về game:
